@@ -13,6 +13,7 @@ Cheat Engine - 7.0+
 * Character params freeze -> Num0 for HP/Stamina, Num. for Torch
 * Character flying mode -> NumLeft/NumRight/NumUp/NumDown
 * Inventory selected item editor -> highlight item then activate record
+* Advanced Inventory item editor -> open inventory page with items then activate script
 * Inventory Viewer, editable
 * Teleport to Sanctuaries, Bosses and key NPC
 * Pickup Edit for dropped item (in reserach)
