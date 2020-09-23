@@ -8,7 +8,7 @@ Cheat Engine - 7.0+
 2. Open in CE
 3. Enjoy!!!
 
-*## Features
+## Features
 * Character params edit
 * Character params freeze -> Num0 for HP/Stamina, Num. for Torch
 * Character flying mode -> NumLeft/NumRight/NumUp/NumDown
