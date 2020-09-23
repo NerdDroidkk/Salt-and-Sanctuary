@@ -16,7 +16,7 @@ Cheat Engine - 7.0+
 * Advanced Inventory item editor -> open inventory page with items then activate script
 * Inventory Viewer, editable
 * Teleport to Sanctuaries, Bosses and key NPC
-* Pickup Edit for dropped item (in reserach)
+* Pickup Edit for dropped item (in research)
 * Static viewer for NPC params
 * Static viewer for NPC currently spawned
 
