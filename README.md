@@ -19,5 +19,7 @@ Cheat Engine - 7.0+
 * Pickup Edit for dropped item (in research)
 * Static viewer for NPC params
 * Static viewer for NPC currently spawned
+* Sanctuaries Management Tool
 * Items DB / ingame Items Types Lists
+* Misc Items Types Lists
 
