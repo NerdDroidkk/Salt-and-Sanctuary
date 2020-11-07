@@ -2,7 +2,7 @@
 
 Game version - 1.0.0.6
 
-Cheat Engine - 7.0+
+Cheat Engine - 7.2+
 
 1. Download
 2. Open in CE main file Salt and Sanctuary 1.0.0.6 v2.CT
